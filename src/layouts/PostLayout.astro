@@ -1,6 +1,7 @@
 ---
 import { type BlogSchema } from "../content/config";
 import BaseLayout from "./BaseLayout.astro";
+import SignalLine from "../components/SignalLine.astro";
 import dayjs from "dayjs";
 import localizedFormat from "dayjs/plugin/localizedFormat";
 
@@ -16,7 +17,7 @@ import { Image } from "astro:assets";
   <main class="md:flex md:justify-center">
     <article class="prose prose-lg max-w-[750px] prose-img:mx-auto">
       {heroImage && <Image width={750} height={422} format="webp" src={heroImage} alt={title} class="w-full mb-6" />}
-      <h1 class="title my-2 text-4xl font-bold">{title}</h1>
+      <h1 class="title my-2 text-4xl font-display font-semibold">{title}</h1>
       {pubDate && <time>{displayDate}</time>}
       <br />
       {badge && <div class="badge badge-secondary my-1">{badge}</div>}
@@ -36,7 +37,7 @@ import { Image } from "astro:assets";
           </div>
         )
       }
-      <div class="divider my-2"></div>
+      <SignalLine seed={title ? title.length : 1} />
       <slot />
     </article>
   </main>

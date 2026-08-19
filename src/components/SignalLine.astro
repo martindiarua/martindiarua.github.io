@@ -1,0 +1,27 @@
+---
+// A sparkline-style divider — the page's signature motif.
+// Stands in for the plain daisyUI `divider` between list items / sections.
+const { seed = 1 } = Astro.props;
+
+// Deterministic pseudo-random points so each instance looks slightly different
+// without any client-side JS.
+function points(seed: number) {
+  let x = seed * 9301 + 49297;
+  const vals = [];
+  for (let i = 0; i <= 8; i++) {
+    x = (x * 9301 + 49297) % 233280;
+    const y = 4 + (x / 233280) * 12;
+    vals.push([i * 37.5, y.toFixed(1)]);
+  }
+  return vals;
+}
+
+const pts = points(seed);
+const d = pts.map(([x, y], i) => (i === 0 ? `M${x},${y}` : `L${x},${y}`)).join(" ");
+---
+
+<div class="signal-line" aria-hidden="true">
+  <svg viewBox="0 0 300 20" preserveAspectRatio="none">
+    <path d={d}></path>
+  </svg>
+</div>

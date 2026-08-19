@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 750 422" width="750" height="422">
+<defs>
+  <linearGradient id="bg9" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0%" stop-color="#12161F"/>
+    <stop offset="100%" stop-color="#0B0E14"/>
+  </linearGradient>
+</defs>
+<rect width="750" height="422" fill="url(#bg9)"/>
+<line x1="0" y1="0" x2="0" y2="422" stroke="#232838" stroke-width="1" opacity="0.35"/>
+<line x1="38" y1="0" x2="38" y2="422" stroke="#232838" stroke-width="1" opacity="0.35"/>
+<line x1="76" y1="0" x2="76" y2="422" stroke="#232838" stroke-width="1" opacity="0.35"/>
+<line x1="114" y1="0" x2="114" y2="422" stroke="#232838" stroke-width="1" opacity="0.35"/>
+<line x1="152" y1="0" x2="152" y2="422" stroke="#232838" stroke-width="1" opacity="0.35"/>
+<line x1="190" y1="0" x2="190" y2="422" stroke="#232838" stroke-width="1" opacity="0.35"/>
+<line x1="228" y1="0" x2="228" y2="422" stroke="#232838" stroke-width="1" opacity="0.35"/>
+<line x1="266" y1="0" x2="266" y2="422" stroke="#232838" stroke-width="1" opacity="0.35"/>
+<line x1="304" y1="0" x2="304" y2="422" stroke="#232838" stroke-width="1" opacity="0.35"/>
+<line x1="342" y1="0" x2="342" y2="422" stroke="#232838" stroke-width="1" opacity="0.35"/>
+<line x1="380" y1="0" x2="380" y2="422" stroke="#232838" stroke-width="1" opacity="0.35"/>
+<line x1="418" y1="0" x2="418" y2="422" stroke="#232838" stroke-width="1" opacity="0.35"/>
+<line x1="456" y1="0" x2="456" y2="422" stroke="#232838" stroke-width="1" opacity="0.35"/>
+<line x1="494" y1="0" x2="494" y2="422" stroke="#232838" stroke-width="1" opacity="0.35"/>
+<line x1="532" y1="0" x2="532" y2="422" stroke="#232838" stroke-width="1" opacity="0.35"/>
+<line x1="570" y1="0" x2="570" y2="422" stroke="#232838" stroke-width="1" opacity="0.35"/>
+<line x1="608" y1="0" x2="608" y2="422" stroke="#232838" stroke-width="1" opacity="0.35"/>
+<line x1="646" y1="0" x2="646" y2="422" stroke="#232838" stroke-width="1" opacity="0.35"/>
+<line x1="684" y1="0" x2="684" y2="422" stroke="#232838" stroke-width="1" opacity="0.35"/>
+<line x1="722" y1="0" x2="722" y2="422" stroke="#232838" stroke-width="1" opacity="0.35"/>
+<line x1="0" y1="0" x2="750" y2="0" stroke="#232838" stroke-width="1" opacity="0.35"/>
+<line x1="0" y1="38" x2="750" y2="38" stroke="#232838" stroke-width="1" opacity="0.35"/>
+<line x1="0" y1="76" x2="750" y2="76" stroke="#232838" stroke-width="1" opacity="0.35"/>
+<line x1="0" y1="114" x2="750" y2="114" stroke="#232838" stroke-width="1" opacity="0.35"/>
+<line x1="0" y1="152" x2="750" y2="152" stroke="#232838" stroke-width="1" opacity="0.35"/>
+<line x1="0" y1="190" x2="750" y2="190" stroke="#232838" stroke-width="1" opacity="0.35"/>
+<line x1="0" y1="228" x2="750" y2="228" stroke="#232838" stroke-width="1" opacity="0.35"/>
+<line x1="0" y1="266" x2="750" y2="266" stroke="#232838" stroke-width="1" opacity="0.35"/>
+<line x1="0" y1="304" x2="750" y2="304" stroke="#232838" stroke-width="1" opacity="0.35"/>
+<line x1="0" y1="342" x2="750" y2="342" stroke="#232838" stroke-width="1" opacity="0.35"/>
+<line x1="0" y1="380" x2="750" y2="380" stroke="#232838" stroke-width="1" opacity="0.35"/>
+<line x1="0" y1="418" x2="750" y2="418" stroke="#232838" stroke-width="1" opacity="0.35"/><rect x="60" y="90" width="22" height="22" fill="#161B22" opacity="1" rx="4"/><rect x="60" y="90" width="22" height="22" fill="none" stroke="#3FA7A1" stroke-width="1.5" rx="4"/><path d="M64,102 L70,108 L80,95" fill="none" stroke="#3FA7A1" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" opacity="1" /><rect x="96" y="94" width="560" height="14" fill="#3A4155" opacity="0.3" rx="3"/><rect x="60" y="145" width="22" height="22" fill="#161B22" opacity="1" rx="4"/><rect x="60" y="145" width="22" height="22" fill="none" stroke="#3FA7A1" stroke-width="1.5" rx="4"/><path d="M64,157 L70,163 L80,150" fill="none" stroke="#3FA7A1" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" opacity="1" /><rect x="96" y="149" width="520" height="14" fill="#3A4155" opacity="0.3" rx="3"/><rect x="60" y="200" width="22" height="22" fill="#161B22" opacity="1" rx="4"/><rect x="60" y="200" width="22" height="22" fill="none" stroke="#E2685A" stroke-width="1.5" rx="4"/><path d="M64,205 L78,218" fill="none" stroke="#E2685A" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" opacity="1" /><path d="M78,205 L64,218" fill="none" stroke="#E2685A" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" opacity="1" /><rect x="96" y="204" width="480" height="14" fill="#3A4155" opacity="0.3" rx="3"/><rect x="60" y="255" width="22" height="22" fill="#161B22" opacity="1" rx="4"/><rect x="60" y="255" width="22" height="22" fill="none" stroke="#3FA7A1" stroke-width="1.5" rx="4"/><path d="M64,267 L70,273 L80,260" fill="none" stroke="#3FA7A1" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" opacity="1" /><rect x="96" y="259" width="440" height="14" fill="#3A4155" opacity="0.3" rx="3"/><rect x="60" y="310" width="22" height="22" fill="#161B22" opacity="1" rx="4"/><rect x="60" y="310" width="22" height="22" fill="none" stroke="#3FA7A1" stroke-width="1.5" rx="4"/><path d="M64,322 L70,328 L80,315" fill="none" stroke="#3FA7A1" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" opacity="1" /><rect x="96" y="314" width="400" height="14" fill="#3A4155" opacity="0.3" rx="3"/><text x="40" y="40" fill="#3FA7A1" font-size="14" font-family="monospace" text-anchor="start" letter-spacing="1">// qa.testsuite</text><text x="40" y="60" fill="#3A4155" font-size="11" font-family="monospace" text-anchor="start" letter-spacing="1">selenium.regression</text></svg>
